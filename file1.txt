@@ -3,3 +3,5 @@
 hello
 
 Dawit Mesfin where is at
+
+This is to show how each computers should work in sync using git
